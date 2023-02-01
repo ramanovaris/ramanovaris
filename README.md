@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramanovaris
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Javascript, Laravel, React JS, PHP
+- 🌱 I’m currently learning Javascript, NextJS, React JS, Codeigniter, PHP
 - 📫 How to reach me, follow my instagram @ramanovaris
 
 <!---
